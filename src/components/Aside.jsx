@@ -81,7 +81,11 @@ export function Aside() {
               <strong>Introdução à Ciência da Computação com Python</strong> - 40 horas
             </p>
             <p>Coursera - Professor Fabio Kon</p>
-            <a href="/py-coursera.pdf" target="_blank" rel="noopener noreferrer">
+            <a
+              href="https://github.com/oGabrielSilva/curriculo-2024/blob/main/public/py-coursera.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               Veja o certificado aqui
             </a>
           </li>
@@ -90,7 +94,11 @@ export function Aside() {
               <strong>React e Next</strong> - 92 horas
             </p>
             <p>Udemy - Professor Luiz Otávio Miranda</p>
-            <a href="/react-next.pdf" target="_blank" rel="noopener noreferrer">
+            <a
+              href="https://github.com/oGabrielSilva/curriculo-2024/blob/main/public/react-next.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               Veja o certificado aqui
             </a>
           </li>

@@ -53,7 +53,8 @@ export function Aside() {
           <li>JavaScript | TypeScript</li>
           <li>React | Next</li>
           <li>Java | Spring Boot | Node</li>
-          <li>SQL | NoSQL</li>
+          <li>SQL | NoSQL | Prisma | JPA</li>
+          <li>HTML | CSS</li>
           <li>Git | GitHub</li>
         </ul>
       </section>

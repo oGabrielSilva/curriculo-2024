@@ -50,14 +50,11 @@ export function Aside() {
       <section className="py-3">
         <h1 className="title is-4 mb-0">Tecnologias</h1>
         <ul className="mt-3">
-          <li>Java</li>
-          <li>Spring Boot</li>
           <li>JavaScript | TypeScript</li>
           <li>React | Next</li>
-          <li>Node</li>
+          <li>Java | Spring Boot | Node</li>
           <li>SQL | NoSQL</li>
           <li>Git | GitHub</li>
-          <li>Python</li>
         </ul>
       </section>
       <section className="py-3">

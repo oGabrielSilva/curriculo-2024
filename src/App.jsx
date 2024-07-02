@@ -83,6 +83,25 @@ function App() {
                 </li>
               </ul>
             </section>
+            <section className="py-3">
+              <h1 className="title is-4 mb-0">Artigos Científicos</h1>
+              <ul className="mt-3">
+                <li>
+                  <p>
+                    Silva, G. H. da ., & Araújo, B. L. G. de M. . (2024). Pescape: A tool developed
+                    to record environmental crimes in fishing in Pernambuco.{' '}
+                    <em>Research, Society and Development, 13</em>(1), e10813144812.{' '}
+                    <a
+                      href="https://doi.org/10.33448/rsd-v13i1.44812"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      https://doi.org/10.33448/rsd-v13i1.44812
+                    </a>
+                  </p>
+                </li>
+              </ul>
+            </section>
           </main>
           <Aside />
         </div>

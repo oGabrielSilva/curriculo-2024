@@ -84,6 +84,7 @@ export function Aside() {
           </li>
         </ul>
       </section>
+
       <section className="py-3">
         <h1 className="title is-4 mb-0">Certificados</h1>
         <ul>

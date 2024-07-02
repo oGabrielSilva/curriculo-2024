@@ -9,7 +9,8 @@ function App() {
           <main className="cell is-col-span-2">
             <div>
               <h1 className="title">Gabriel Henrique da Silva</h1>
-              <h2 className="subtitle">Desenvolvedor web FullStack | IT Manager</h2>
+              <h2 className="subtitle m-0">Desenvolvedor web FullStack</h2>
+              <h3 className="subtitle is-6">Formado em Gestão da Tecnologia da Informação</h3>
             </div>
             <About />
             <section className="py-3">

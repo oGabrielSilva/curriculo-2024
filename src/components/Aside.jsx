@@ -3,8 +3,6 @@ export function Aside() {
     <aside className="cell">
       <section className="py-3">
         <ul>
-          <li>Joaquim Cícero de Barros</li>
-          <li>Floresta - Pernambuco, 56400-000</li>
           <li>Brasileiro, 23 anos</li>
           <li>
             <hr />
@@ -31,7 +29,7 @@ export function Aside() {
           </li>
           <li className="pt-1">
             <span className="icon">
-              <i className="fa-solid fa-at" />
+              <i className="fa-solid fa-envelope" />
             </span>
             <a href="mailto:odev.gabriel@gmail.com" target="_blank" rel="noopener noreferrer">
               odev.gabriel@gmail.com
@@ -45,17 +43,26 @@ export function Aside() {
               https://gabrielsilva.vercel.app
             </a>
           </li>
+          <li className="pt-1">
+            <span className="icon">
+              <i className="fa-brands fa-linkedin" />
+            </span>
+            <a
+              href="https://www.linkedin.com/in/ogabriel-henrique"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              in/ogabriel-henrique
+            </a>
+          </li>
         </ul>
       </section>
       <section className="py-3">
         <h1 className="title is-4 mb-0">Tecnologias</h1>
         <ul className="mt-3">
-          <li>JavaScript | TypeScript</li>
-          <li>React | Next</li>
-          <li>Java | Spring Boot | Node</li>
-          <li>SQL | NoSQL | Prisma | JPA</li>
-          <li>HTML | CSS</li>
-          <li>Git | GitHub</li>
+          <li>JavaScript | TypeScript | Java</li>
+          <li>React.js | Vue.js</li>
+          <li>Spring Boot | Node</li>
         </ul>
       </section>
       <section className="py-3">
@@ -67,7 +74,7 @@ export function Aside() {
               Pernambucano.
             </p>
             <p>Superior de Tecnologia</p>
-            <p>Ingresso: 2021 | aguardando término</p>
+            <p>Ingresso: 2021 | aguardando diploma</p>
           </li>
         </ul>
       </section>

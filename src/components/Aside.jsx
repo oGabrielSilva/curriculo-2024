@@ -48,6 +48,19 @@ export function Aside() {
               in/ogabriel-henrique
             </a>
           </li>
+
+          <li className="pt-1">
+            <span className="icon">
+              <i className="fa-solid fa-link" />
+            </span>
+            <a
+              href="https://gabrielhenriquedasilva.vercel.app"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              gabrielhenriquedasilva.vercel.app
+            </a>
+          </li>
         </ul>
       </section>
       <section className="py-3">

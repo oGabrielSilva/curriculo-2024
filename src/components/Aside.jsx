@@ -35,14 +35,7 @@ export function Aside() {
               odev.gabriel@gmail.com
             </a>
           </li>
-          <li className="pt-1">
-            <span className="icon">
-              <i className="fa-solid fa-globe" />
-            </span>
-            <a href="https://gabrielsilva.vercel.app" target="_blank" rel="noopener noreferrer">
-              https://gabrielsilva.vercel.app
-            </a>
-          </li>
+
           <li className="pt-1">
             <span className="icon">
               <i className="fa-brands fa-linkedin" />

@@ -2,13 +2,12 @@ export function About() {
   return (
     <section className="pb-3 pt-5">
       <p>
-        Entre os anos de 2019 e 2020 conheci e me apaixonei pela web e por JavaScript. Desde então
-        venho atrás de novas habilidades: aprendi TypeScript, React, Spring Boot, Node, etc. Busquei
-        uma faculdade na área, encontrando Gestão da Tecnologia da Informação, que envolve duas
-        coisas que gosto: <em>gestão</em> e <em>tecnologia</em>.
-      </p>
-      <p>
-        Finalizei as aulas e publiquei um{' '}
+        Sou o único desenvolvedor por trás da plataforma{' '}
+        <a href="https://devify.cyou" target="_blank" rel="noopener noreferrer">
+          Devify
+        </a>
+        , onde planejo repassar todo o meu conhecimento que consegui desde 2019. Tenho facilidade
+        com programação e possuo habilidades tanto no front-end quanto back-end. Publiquei um{' '}
         <a
           href="https://rsdjournal.org/index.php/rsd/article/view/44812"
           target="_blank"
@@ -16,9 +15,10 @@ export function About() {
         >
           artigo científico
         </a>{' '}
-        sobre um sistema que desenvolvi para um projeto. Usei tal artigo para substituir meu TCC.
+        durante minha faculdade sobre o desenvolvimento da plataforma Pescape, um sistema que
+        desenvolvi em um projeto do instituto que estudei.
       </p>
-      <p>
+      <p className="pt-3">
         Estou aplicando para a atual vaga porque tenho certeza absoluta que posso agregar para a
         empresa e para o time!
       </p>

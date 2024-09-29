@@ -53,12 +53,8 @@ export function Aside() {
             <span className="icon">
               <i className="fa-solid fa-link" />
             </span>
-            <a
-              href="https://gabrielhenriquedasilva.vercel.app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              gabrielhenriquedasilva.vercel.app
+            <a href="https://devify.cyou" target="_blank" rel="noopener noreferrer">
+              devify.cyou
             </a>
           </li>
         </ul>

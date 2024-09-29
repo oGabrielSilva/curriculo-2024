@@ -31,8 +31,8 @@ export function Aside() {
             <span className="icon">
               <i className="fa-solid fa-envelope" />
             </span>
-            <a href="mailto:odev.gabriel@gmail.com" target="_blank" rel="noopener noreferrer">
-              odev.gabriel@gmail.com
+            <a href="mailto:gabriel04gh1.gh@gmail.com" target="_blank" rel="noopener noreferrer">
+              gabriel04gh1.gh@gmail.com
             </a>
           </li>
 
